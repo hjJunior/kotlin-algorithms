@@ -1,5 +1,5 @@
 fun main() {
-	val array = arrayOf(1, 3, 4, 55, 104, 222, 229, 300)
+    val array = arrayOf(1, 3, 4, 55, 104, 222, 229, 300)
     val key = 55
     
     val search = binarySearch(array, key)
