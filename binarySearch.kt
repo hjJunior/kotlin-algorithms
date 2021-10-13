@@ -1,5 +1,9 @@
 fun main() {
+<<<<<<< HEAD
 	val array = arrayOf(1, 3, 4, 55, 104, 222, 229, 300).sortedArray()
+=======
+    val array = arrayOf(1, 3, 4, 55, 104, 222, 229, 300)
+>>>>>>> ced766e80ed8be78dd77e0282da1de32ddc1d0cb
     val key = 55
     
     val search = binarySearch(array, key)
